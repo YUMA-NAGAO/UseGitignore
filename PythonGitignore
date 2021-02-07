@@ -1,0 +1,6 @@
+*.npy
+.xml
+*.pdf
+
+# macOS
+.DS_Store
